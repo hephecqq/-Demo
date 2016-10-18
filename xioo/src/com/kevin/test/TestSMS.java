@@ -12,6 +12,11 @@ import java.net.URLEncoder;
 
 import org.junit.Test;
 
+/**
+ * 短信接口调用
+ * @author DAGONG
+ *
+ */
 public class TestSMS {
 	/**
 	 * @Param name
